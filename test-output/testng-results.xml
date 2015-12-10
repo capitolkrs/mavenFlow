@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6135" started-at="2015-12-10T06:04:37Z" finished-at="2015-12-10T06:04:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6135" started-at="2015-12-10T06:04:37Z" finished-at="2015-12-10T06:04:43Z">
+      <class name="org.config.maven.TestSuite">
+        <test-method status="PASS" signature="configTest()[pri:0, instance:org.config.maven.TestSuite@3c5a99da]" name="configTest" is-config="true" duration-ms="3093" started-at="2015-12-10T06:04:37Z" finished-at="2015-12-10T06:04:40Z">
+        </test-method> <!-- configTest -->
+        <test-method status="PASS" signature="runTest()[pri:0, instance:org.config.maven.TestSuite@3c5a99da]" name="runTest" duration-ms="3028" started-at="2015-12-10T06:04:40Z" finished-at="2015-12-10T06:04:43Z">
+        </test-method> <!-- runTest -->
+      </class> <!-- org.config.maven.TestSuite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
